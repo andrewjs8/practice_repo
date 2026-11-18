@@ -11,5 +11,5 @@ Add former assignments to the practice repo to practice making commits
 # How is the repo organized
 There is no organization
 
-#Contact information
+# Contact information
 Contact andrewjspeer@gmail.com with any questions
